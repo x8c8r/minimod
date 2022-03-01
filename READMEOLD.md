@@ -1,5 +1,5 @@
 # MiniMod
-## A Crab Game cheat.
+## A Discontinued Crab Game cheat.
 
 ### Reason of uploading the source code(Pasting from discord message)
 
